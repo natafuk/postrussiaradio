@@ -14,7 +14,7 @@ module.exports = {
   "24/7": false, //If you want the bot to be stay in the vc 24/7
   CookieSecret: "Pikachu is cute", //A Secret like a password
   IconURL:
-    "https://media.discordapp.net/attachments/886920699980152852/898003161845997578/logo.png", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
+    "https://media.discordapp.net/attachments/886920699980152852/898073874472783872/PicsArt_10-13-11.03.43.png", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
   EmbedColor: "RANDOM",
   Permissions: 2205281600,
   Website: process.env.Website || "https://music.postrussia.repl.co",
