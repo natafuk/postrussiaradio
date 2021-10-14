@@ -1,84 +1,84 @@
-<h1 align="center">Contributing</h1>
+<h1 align="center">Содействие</h1>
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change.
+При внесении вклада в этот репозиторий, пожалуйста, сначала обсудите изменение, которое вы хотите внести в выпуске,
+по электронной почте или любым другим способом с владельцами этого репозитория перед внесением изменений.
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Обратите внимание, что у нас есть кодекс поведения, пожалуйста, следуйте ему во всех ваших взаимодействиях с проектом.
 
-## Pull Request Process
+## Процесс запроса на извлечение
 
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a
-   build.
-2. Update the README.md with details of changes to the interface, this includes new environment
-   variables, exposed ports, useful file locations and container parameters.
-3. Increase the version numbers in any examples files and the README.md to the new version that this
-   Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you
-   do not have permission to do that, you may request the second reviewer to merge it for you.
+1. Убедитесь, что все зависимости установки или сборки удалены до конца уровня при выполнении
+    строить.
+2. Обновите README.md подробностями об изменениях интерфейса, включая новую среду.
+    переменные, открытые порты, полезные местоположения файлов и параметры контейнера.
+3. Увеличьте номера версий в любых файлах примеров и README.md до новой версии, которая
+    Запрос на вытягивание будет представлять. Мы используем схему управления версиями [SemVer] (http://semver.org/).
+4. Вы можете объединить Pull Request после того, как получите одобрение двух других разработчиков или если вы
+    у вас нет на это разрешения, вы можете попросить второго рецензента объединить его для вас.
 
-## Code of Conduct
+## Нормы поведения
 
-### Our Pledge
+### Наше обещание
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+В интересах создания открытой и гостеприимной среды мы, как
+участники и сопровождающие обязуются участвовать в нашем проекте и
+В нашем сообществе нет домогательств для всех, независимо от возраста и телосложения.
+размер, инвалидность, этническая принадлежность, гендерная идентичность и самовыражение, уровень опыта,
+национальность, внешность, раса, религия или сексуальная принадлежность и
+ориентация.
 
 ### Our Standards
 
-Examples of behavior that contributes to creating a positive environment
-include:
+Примеры поведения, которое способствует созданию позитивной среды
+включают:
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+- Использование приветливого и инклюзивного языка
+- Уважительное отношение к различным точкам зрения и опыту.
+- Изящно принимает конструктивную критику
+- Сосредоточение внимания на том, что лучше для сообщества
+- Проявление сочувствия к другим членам сообщества
 
-Examples of unacceptable behavior by participants include:
+Примеры неприемлемого поведения участников включают:
 
-- The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- Использование сексуализированной лексики или образов и нежелательного сексуального внимания или
+   достижения
+- Троллинг, оскорбительные / уничижительные комментарии, а также личные или политические нападения.
+- Публичное или частное преследование
+- Публикация частной информации других лиц, такой как физическая или электронная
+   адрес без явного разрешения
+- Другое поведение, которое можно было бы обоснованно считать неуместным в
+   профессиональная установка
 
-### Our Responsibilities
+### Наши обязанности
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+Сопровождающие проекта несут ответственность за разъяснение стандартов приемлемого
+поведения, и ожидается, что они предпримут надлежащие и справедливые корректирующие действия в
+реакция на любые случаи неприемлемого поведения.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+Сопровождающие проекта имеют право и обязаны удалять, редактировать или
+отклонять комментарии, коммиты, код, правки вики, проблемы и другие материалы
+которые не соответствуют настоящему Кодексу поведения, или временно запретить или
+навсегда любой участник другого поведения, которое они считают неуместным,
+угрожающие, оскорбительные или вредные.
 
-### Scope
+### Сфера
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+Настоящий Кодекс поведения применяется как в проектных, так и в общественных местах.
+когда человек представляет проект или его сообщество. Примеры
+представление проекта или сообщества включает использование официального электронного письма проекта
+адрес, публикация через официальную учетную запись в социальных сетях или выполнение функций назначенного
+представитель на онлайн или офлайн мероприятии. Представление проекта может быть
+далее определены и разъяснены сопровождающими проекта.
 
-### Enforcement
+### Правоприменение
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at DelicacyDeals@gmail.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+Случаи оскорбления, домогательства или иного неприемлемого поведения могут быть
+об этом сообщается, связавшись с командой проекта по адресу DelicacyDeals@gmail.com. Все
+жалобы будут рассмотрены и исследованы, и в результате будет получен ответ,
+считается необходимым и соответствующим обстоятельствам. Команда проекта
+обязан сохранять конфиденциальность в отношении лица, сообщившего об инциденте.
+Более подробная информация о конкретных правилах применения может быть опубликована отдельно.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+Сопровождающие проект, которые не соблюдают и не соблюдают Кодекс поведения должным образом
+вера может столкнуться с временными или постоянными последствиями, определяемыми другими
+члены руководства проекта.
