@@ -36,7 +36,7 @@
       "required": "true"
     },
     "Website": {
-      "description": "URL of your webserver (Example: https://domain.xyz). Change this if you want to use the web-dashboard.",
+      "description": "My site",
       "value": "https://music.postrussia.repl.co"
     },
     "Spotify_ClientID": {
