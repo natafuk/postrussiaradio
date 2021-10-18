@@ -1,10 +1,10 @@
 version: "3"
 
 services:
-  discord-musicbot:
+  postrussia:
     build: .
     image: discord-musicbot:latest
-    container_name: discord-musicbot
+    container_name: postrussia
     restart: unless-stopped
     networks:
       - lavalink-net

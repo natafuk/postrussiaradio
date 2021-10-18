@@ -36,10 +36,10 @@ module.exports = {
         }help [Command] | Have a nice day!`
       ).setDescription(`${Commands.join("\n")}
   
-  PostRussia Version: v${require("../package.json").version}
+  Miffie Version: v${require("../package.json").version}
   [✨ Support Server](${
     client.botconfig.SupportServer
-  }) | [VK Page](https://vk.com/delicacysound) | [Site](https://music.postrussia.repl.co/)`);
+  }) | [VK Page](https://vk.com/delicacysound)`);
     if (!args[0]) message.channel.send(Embed);
     else {
       let cmd =
@@ -120,10 +120,10 @@ module.exports = {
           }help [Command] | Have a nice day!`
         ).setDescription(`${Commands.join("\n")}
   
-  PostRussia Version: v${require("../package.json").version}
+  Miffie Version: v${require("../package.json").version}
   [✨ Support Server](${
     client.botconfig.SupportServer
-  }) | [VK Page](https://vk.com/delicacysound) | [Site](https://music.postrussia.repl.co/)`);
+  }) | [VK Page](https://vk.com/delicacysound)`);
       if (!args) return interaction.send(Embed);
       else {
         let cmd =
